@@ -7,7 +7,7 @@
 The goal of this project is to analyze supermarket sales data using Excel to derive actionable insights for business decision-making. The analysis will focus on key performance indicators (KPIs) such as sales trends, customer preferences, product performance, and profitability. This can help supermarket managers or owners optimize their inventory, improve customer satisfaction, and increase sales.
 
 # ⚙ TOOLS USED
-[<img src="excel.png" alt="Excel Logo" width="70" height="70">](excel.png) &nbsp;
+[<img src="EXCEL.png" alt="Excel Logo" width="70" height="70">](EXCEL.png) &nbsp;
 
  Microsoft Excel
 

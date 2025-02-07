@@ -12,8 +12,9 @@ The goal of this project is to analyze supermarket sales data using Excel to der
  Microsoft Excel
 
 # 🚀 PROJECT GOALS
-### Goals for Supermarket Data Analysis Project:
 
+ Goals :
+ 
 1.Identify Sales Trends and Patterns.
 
 2.Understand Product Performance.

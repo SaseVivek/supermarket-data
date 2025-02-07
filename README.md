@@ -28,7 +28,7 @@ The goal of this project is to analyze supermarket sales data using Excel to der
 6.Improve Customer Experience.
   
 # 📈 INSIGHTS
-Key Insights from Project
+Key Insights from Project:
 
 - Peak Sales Periods: Analysis of sales trends reveals certain months or weeks with high sales, typically during holidays or special events.
   

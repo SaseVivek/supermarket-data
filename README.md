@@ -42,16 +42,15 @@ Key Insights from Project
 
 # 🧠 DATA STORY
 
-Additional Insights and Recommendations
+✅ Improve product placement & inventory turnover
 
-- Underperforming Products: The bottom-performing items across all stores include certain flavors and products like coffee beans.
+✅ Enhance store-specific sales strategies
 
-- Merchandise Performance: Merchandise clothing sales at the Hell's Kitchen store are significantly lower compared to other locations.
-  
-Recommendations
-- Offer discounts on merchandise at Hell's Kitchen to boost sales.
-- Remove low-selling items from displays at Hell's Kitchen and make them available on order only.
-- Optimize inventory for low-performing products to reduce operational costs.
+✅ Reduce waste & optimize operational efficiency
+
+✅ Ensure higher profitability across all locations
+
+With continuous data analysis, the business can adapt to consumer preferences and drive growth effectively! 
 
 # 📊 DASHBOARD
 ![](DASHBOARDUN.png

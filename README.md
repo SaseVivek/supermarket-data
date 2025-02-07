@@ -1,5 +1,5 @@
 # SUPERMARKET SALES DASHBOARD
-![](img.jpg)
+![](1.jpg)
 
 
 

@@ -4,8 +4,7 @@
 
 
 # 📊 PROJECT OVERVIEW
-
-This dashboard has been designed to present key insights about the operations of three stores within our coffee chain. It serves as a valuable tool to facilitate discussions with the regional manager and other higher-ups. The primary goal is to optimize store operations, improve efficiency, and drive better performance across all locations.
+The goal of this project is to analyze supermarket sales data using Excel to derive actionable insights for business decision-making. The analysis will focus on key performance indicators (KPIs) such as sales trends, customer preferences, product performance, and profitability. This can help supermarket managers or owners optimize their inventory, improve customer satisfaction, and increase sales.
 
 # ⚙ TOOLS USED
 [<img src="excel.png" alt="Excel Logo" width="70" height="70">](excel.png) &nbsp;

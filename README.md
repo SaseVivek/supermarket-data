@@ -12,18 +12,20 @@ The goal of this project is to analyze supermarket sales data using Excel to der
  Microsoft Excel
 
 # 🚀 PROJECT GOALS
-- Maximize Revenue Growth
+### Goals for Supermarket Data Analysis Project:
 
-- Optimize Peak Day Operations
+1.Identify Sales Trends and Patterns.
 
-- Enhance Morning Service Efficiency
+2.Understand Product Performance.
 
-- Leverage Popular Products
-
-- Maintain Category Leadership
-
-- Ensure Consistency Across Locations
-
+3.Customer Insights and Segmentation.
+  
+4.Forecast Future Sales.
+  
+5.Increase Operational Efficiency.
+   
+6.Improve Customer Experience.
+  
 # 📈 INSIGHTS
 Key Insights from Project
 

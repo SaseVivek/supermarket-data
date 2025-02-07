@@ -53,5 +53,5 @@ Key Insights from Project:
 With continuous data analysis, the business can adapt to consumer preferences and drive growth effectively! 
 
 # 📊 DASHBOARD
-![](DASHBOARDUN.png
+![](maindash.png
 )
